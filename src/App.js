@@ -38,7 +38,7 @@ export default function ColumnsGrid() {
                 placeholder="Maximum 4 rows"
                 defaultValue="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
       ut labore et dolore magna aliqua."
-                style={{ width: 960, height: 500 }}
+                style={{ width: 1060, height: 500 }}
             />
         </Box>
     );
